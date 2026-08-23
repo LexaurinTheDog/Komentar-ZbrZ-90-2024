@@ -1,4 +1,4 @@
-# Hloubkový výklad a aplikační mapa — Komentar-ZbrZ-90-2024
+# Hloubkový výklad a aplikační mapa — Komentář k zákonu č. 90/2024 Sb., o zbraních a střelivu
 
 <!-- LOCAL-HLOUBKOVY-VYKLAD-GENERATED -->
 
@@ -18,18 +18,18 @@ Místní korpus pro tuto mapu tvoří **5 kapitol**, **152 samostatně nadepsan�
 ## 1. Znění, novelizace a časová působnost
 
 **Zjištění z místního komentáře.**
-Komentář se sám vymezuje jako **Komentar-ZbrZ-90-2024**.
+Komentář se sám vymezuje jako **Komentář k zákonu č. 90/2024 Sb., o zbraních a střelivu**.
 Normativní obsah je rozdělen do **5** místních kapitol; rejstřík je výchozím bodem pro určení rozhodného souboru a jeho systematiky.
 Místně zachycené údaje o znění, účinnosti nebo změnách:
-- [Komentář k zákonu č. 90/2024 Sb., o zbraních a střelivu](00-uvod.md): „Konsolidované znění k 1. lednu 2026 (dokument e-Sbírky SB-2024-000902026-01-01). Komentář je zpracován výhradně z lokálních materiálů — z textu zákona uloženého v e-Sbírkovém archivu a ze znalosti systému správního práva a dosavadní…“
+- [Komentář k zákonu č. 90/2024 Sb., o zbraních a střelivu](00-uvod.md): „Konsolidované znění k 1. lednu 2026 (dokument e-Sbírky `SB-2024-00090_2026-01-01`). Komentář je zpracován výhradně z lokálních materiálů — z textu zákona uloženého v e-Sbírkovém archivu a ze znalosti systému správního práva a dosavadní…“
 - [Co tento zákon je](00-uvod.md): „Zákon č. 90/2024 Sb., o zbraních a střelivu, je rekodifikací celého českého zbraňového práva — nahrazuje s účinností od 1. ledna 2026 dosavadní zákon č. 119/2002 Sb., o střelných zbraních a střelivu (zákon o zbraních), účinný více než…“
 - [Přechodná ustanovení](00-uvod.md): „Rozsáhlá přechodná ustanovení části jedenácté zajišťují plynulé „překlopení" oprávnění, dokladů a evidencí vydaných nebo vedených podle zrušeného zákona č. 119/2002 Sb. do režimu nového zákona, aniž by dosavadní držitelé museli o svá…“
 - [Struktura zákona](00-uvod.md): „Část jedenáctá | Ustanovení společná, přechodná a závěrečná, včetně příloh | 144–152“
-- [Tabulka kapitol komentáře](00-uvod.md): „04-informacni-system-dozor-prestupky.md | Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení | 118–152“
+- [Tabulka kapitol komentáře](00-uvod.md): „[04-informacni-system-dozor-prestupky.md](04-informacni-system-dozor-prestupky.md) | Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení | 118–152“
 - [Metoda komentáře](00-uvod.md): „Bez judikatury: zákon je účinný teprve od 1. 1. 2026 a k jeho ustanovením neexistuje žádná rozhodovací praxe. Komentář se důsledně vyhýbá vymýšlení spisových značek nebo skutkových okolností neexistujících rozhodnutí; kde je to funkčně…“
 Samostatně označené časové uzly: [Přechodná ustanovení](00-uvod.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md).
 Další časové signály v kapitolách:
-- [Komentář k zákonu č. 90/2024 Sb., o zbraních a střelivu](00-uvod.md): „Konsolidované znění k 1. lednu 2026 (dokument e-Sbírky SB-2024-000902026-01-01). Komentář je zpracován výhradně z lokálních materiálů — z textu zákona uloženého v e-Sbírkovém archivu a ze znalosti systému správního práva a dosavadní…“
+- [Komentář k zákonu č. 90/2024 Sb., o zbraních a střelivu](00-uvod.md): „Konsolidované znění k 1. lednu 2026 (dokument e-Sbírky `SB-2024-00090_2026-01-01`). Komentář je zpracován výhradně z lokálních materiálů — z textu zákona uloženého v e-Sbírkovém archivu a ze znalosti systému správního práva a dosavadní…“
 - [Co tento zákon je](00-uvod.md): „Zákon č. 90/2024 Sb., o zbraních a střelivu, je rekodifikací celého českého zbraňového práva — nahrazuje s účinností od 1. ledna 2026 dosavadní zákon č. 119/2002 Sb., o střelných zbraních a střelivu (zákon o zbraních), účinný více než…“
 - [Dvoustupňový systém oprávnění a licencí](00-uvod.md): „Zákon důsledně odlišuje veřejnoprávní oprávnění na straně fyzických osob (zbrojní oprávnění, obecné nebo rozšířené, § 12–36) od oprávnění na straně podnikatelů a právnických osob (zbrojní licence skupiny ZL1, ZL2 a ZL3, § 37–45). Oba…“
 
@@ -39,7 +39,7 @@ Další časové signály v kapitolách:
 - Porovnejte předchozí a nové znění po jednotlivých znacích normy; historický důvod nesmí nahradit přechodné ustanovení.
 - U každého závěru zaznamenejte datum, od něhož je použitelný, a událost vyžadující aktualizaci.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [Přechodná ustanovení](00-uvod.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [Přechodná ustanovení](00-uvod.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md)
 
 ## 2. Účel, chráněné hodnoty a právní zásady
 
@@ -70,7 +70,7 @@ Reprezentativní místní formulace:
 - Při střetu zásad popište intenzitu zásahu, dostupné šetrnější řešení a důvod priority v konkrétním případě.
 - Účel ani zásada nesmějí vytvořit povinnost nebo výjimku, pro kterou místní text neposkytuje oporu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní zásady a judikatorní teze](ZASADY.md); [§ 5 — Zásady kategorizace zbraně a střeliva](01-obecna-kategorie-opravneni.md); [Zásada nejpřísnější kategorie při souběhu vlastností (odst. 1)](01-obecna-kategorie-opravneni.md); [§ 66 — Povolení provozovat střelnici na místě dřívější střelnice a ochranné pásmo střelnice](03-registrace-povinnosti-strelnice.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md); [§ 5 — Zásady kategorizace zbraně a střeliva](01-obecna-kategorie-opravneni.md); [Zásada nejpřísnější kategorie při souběhu vlastností (odst. 1)](01-obecna-kategorie-opravneni.md); [§ 66 — Povolení provozovat střelnici na místě dřívější střelnice a ochranné pásmo střelnice](03-registrace-povinnosti-strelnice.md)
 
 ## 3. Působnost, adresáti, výluky a výjimky
 
@@ -89,7 +89,7 @@ Výsledná odpověď musí kumulativně určit věcný, osobní, územní a čas
 - Výjimku vykládejte podle jejího textu a účelu; nerozšiřujte ji jen podobností případu.
 - Ověřte, zda zvláštní osobní nebo územní pravidlo nemění obecnou působnost předpisu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [§ 1 — Působnost zákona](01-obecna-kategorie-opravneni.md); [§ 35 — Územní rozsah oprávnění zkušebního komisaře](02-zbrojni-opravneni-licence.md); [§ 51 — Řízení o vydání výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 52 — Pozastavení výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 53 — Odnětí výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 1 — Působnost zákona](01-obecna-kategorie-opravneni.md); [§ 35 — Územní rozsah oprávnění zkušebního komisaře](02-zbrojni-opravneni-licence.md); [§ 51 — Řízení o vydání výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 52 — Pozastavení výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 53 — Odnětí výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md)
 
 ## 4. Pojmy, statusy, klasifikace a znaky normy
 
@@ -108,7 +108,7 @@ Každá kvalifikace musí propojit definiční znaky s právním následkem; pou
 - Stejný výraz z jiného předpisu nepřebírejte automaticky; ověřte jeho funkci v systematice komentovaného předpisu.
 - Ke každému pojmu připojte právní následek zařazení i nezařazení.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Kapitola 1 — Obecná ustanovení, kategorie zbraní a střeliva, nakládání (§ 1–11)](01-obecna-kategorie-opravneni.md); [Struktura definic — odkaz na přílohy (odst. 1)](01-obecna-kategorie-opravneni.md); [Pojem zbraně (odst. 2)](01-obecna-kategorie-opravneni.md); [Pojem střeliva (odst. 3)](01-obecna-kategorie-opravneni.md); [§ 4 — Kategorie zbraní a střeliva](01-obecna-kategorie-opravneni.md); [Zásada nejpřísnější kategorie při souběhu vlastností (odst. 1)](01-obecna-kategorie-opravneni.md); [§ 6 — Další technické podmínky zařazení zbraně do kategorie PO a NO](01-obecna-kategorie-opravneni.md); [§ 50 — Povolení kategorie R3](02-zbrojni-opravneni-licence.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Kapitola 1 — Obecná ustanovení, kategorie zbraní a střeliva, nakládání (§ 1–11)](01-obecna-kategorie-opravneni.md); [Struktura definic — odkaz na přílohy (odst. 1)](01-obecna-kategorie-opravneni.md); [Pojem zbraně (odst. 2)](01-obecna-kategorie-opravneni.md); [Pojem střeliva (odst. 3)](01-obecna-kategorie-opravneni.md); [§ 4 — Kategorie zbraní a střeliva](01-obecna-kategorie-opravneni.md); [Zásada nejpřísnější kategorie při souběhu vlastností (odst. 1)](01-obecna-kategorie-opravneni.md); [§ 6 — Další technické podmínky zařazení zbraně do kategorie PO a NO](01-obecna-kategorie-opravneni.md); [§ 50 — Povolení kategorie R3](02-zbrojni-opravneni-licence.md)
 
 ## 5. Povinnosti, zákazy, dovolení, oprávnění a kompetence
 
@@ -138,7 +138,7 @@ Reprezentativní místní normativní věty:
 - U diskrece určete účel, zákonné meze, povinná hlediska, požadavky odůvodnění a způsob přezkumu.
 - Domněnku, fikci a přímý právní účinek klasifikujte podle jejich následku, nikoli jen podle slovesa použitého v textu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
 
 ## 6. Procesní sled, příslušnost, forma a lhůty
 
@@ -156,7 +156,7 @@ Místně zachycené časové a pořadové body:
 - Oddělte hmotněprávní lhůtu, procesní lhůtu a pořádkový časový požadavek.
 - U rozhodnutí vždy určete pravomoc, věcnou a místní příslušnost, náležitosti odůvodnění a dostupný prostředek ochrany.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Centrální registr zbraní](00-uvod.md); [Nevratná úprava registrované zbraně na PO/NO (odst. 1)](01-obecna-kategorie-opravneni.md); [§ 30 — Zápis výsledku zkoušky do centrálního registru zbraní](02-zbrojni-opravneni-licence.md); [§ 50 — Povolení kategorie R3](02-zbrojni-opravneni-licence.md); [§ 51 — Řízení o vydání výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 52 — Pozastavení výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 53 — Odnětí výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Centrální registr zbraní](00-uvod.md); [Nevratná úprava registrované zbraně na PO/NO (odst. 1)](01-obecna-kategorie-opravneni.md); [§ 30 — Zápis výsledku zkoušky do centrálního registru zbraní](02-zbrojni-opravneni-licence.md); [§ 50 — Povolení kategorie R3](02-zbrojni-opravneni-licence.md); [§ 51 — Řízení o vydání výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 52 — Pozastavení výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 53 — Odnětí výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md)
 
 ## 7. Rozhodné skutečnosti, dokazování a riziko nejistoty
 
@@ -173,7 +173,7 @@ Normativní věty související s prokazováním nebo dokumentací:
 - Právní argument nenahrazuje skutkové zjištění a obtížnost dokazování sama nevytváří zákonnou domněnku.
 - U odborné otázky určete, co má zjistit znalec a které právní hodnocení musí zůstat rozhodujícímu orgánu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 122 — Zadržení zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md); [§ 123 — Zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 122 — Zadržení zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md); [§ 123 — Zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md)
 
 ## 8. Právní následky, odpovědnost, sankce a ochrana
 
@@ -192,7 +192,7 @@ Reprezentativní normativní vazby porušení a následku:
 - Prověřte souběh, subsidiaritu a vzájemné vyloučení jednotlivých prostředků ochrany.
 - Uveďte nejen maximální sankci, ale i podmínky individualizace, nápravy, moderace a přezkumu.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 66 — Povolení provozovat střelnici na místě dřívější střelnice a ochranné pásmo střelnice](03-registrace-povinnosti-strelnice.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 66 — Povolení provozovat střelnici na místě dřívější střelnice a ochranné pásmo střelnice](03-registrace-povinnosti-strelnice.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md)
 
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
@@ -206,7 +206,7 @@ Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorn
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní zásady a judikatorní teze](ZASADY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -229,7 +229,7 @@ Místní kapitoly výslovně zachycují například tyto právní otázky, námi
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [kapitola s místními spornými otázkami](01-obecna-kategorie-opravneni.md); [místní zásady a judikatorní teze](ZASADY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [kapitola s místními spornými otázkami](01-obecna-kategorie-opravneni.md); [místní zásady a judikatorní teze](ZASADY.md)
 
 ## 11. Systematické, ústavní, evropské a kolizní vazby
 
@@ -242,7 +242,7 @@ Další místní uzly systematiky: [§ 122 — Zadržení zbraně, střeliva neb
 - Prověřte ústavní limit a případný konflikt základních práv před použitím čistě jazykového závěru.
 - Vazbu uzavřete praktickým pravidlem, který předpis se použije první a co zůstává podpůrné.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [§ 122 — Zadržení zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md); [§ 123 — Zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md); [Přechodná ustanovení](00-uvod.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 122 — Zadržení zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md); [§ 123 — Zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny](04-informacni-system-dozor-prestupky.md); [Přechodná ustanovení](00-uvod.md); [§ 23 — Zánik zbrojního oprávnění](02-zbrojni-opravneni-licence.md); [§ 36 — Překážky výkonu činnosti zkušebního komisaře, zánik oprávnění zkušebního komisaře a jeho odvolání](02-zbrojni-opravneni-licence.md); [§ 45 — Zánik zbrojní licence](02-zbrojni-opravneni-licence.md); [§ 54 — Zánik výjimky nebo povolení](02-zbrojni-opravneni-licence.md); [§ 58 — Zánik zapsané autorizace](02-zbrojni-opravneni-licence.md); [§ 69 — Zánik povolení provozovat střelnici](03-registrace-povinnosti-strelnice.md); [Kapitola 4 — Informační systémy, kontrola a dozor, přestupky, společná a přechodná ustanovení (§ 118–152)](04-informacni-system-dozor-prestupky.md)
 
 ## 12. Přezkoumatelná aplikace a úplná subsumpce
 
@@ -261,7 +261,7 @@ Aplikační vrstvu lze ověřit zejména v:
 - Variantu vytvořte změnou jediné rozhodné skutečnosti; tím se ukáže, který znak skutečně nese výsledek.
 - Uzavřete procesním krokem, prostředkem ochrany, důsledkem pro adresáta a zbytkovou nejistotou.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní aplikační kapitola](00-uvod.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní aplikační kapitola](00-uvod.md)
 
 ## 13. Stav poznání, kapitolová úplnost a aktualizační spouštěče
 
@@ -302,7 +302,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - Tvrzení bez místní opory označte jako hypotézu či otevřenou otázku; absenci pramene nevydávejte za ustálené právo.
 - Po každé aktualizaci znovu ověřte časovou působnost, odkazy, návazné předpisy a modelové příklady.
 
-**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní zásady a judikatorní teze](ZASADY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
+**Místní opora.** [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
 
 ## Autorský protokol pro každé komentované ustanovení
 
